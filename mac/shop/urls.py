@@ -12,4 +12,3 @@ urlpatterns = [
   path("checkout/", views.checkout, name="Checkout"),
   path("handlerequest/", views.handlerequest, name="Handlerequest"),
 ]
-
